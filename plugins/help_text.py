@@ -46,11 +46,11 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Fork Repo ⚡", url="https://github.com/LazyDeveloperr/MissPerfect-URL-BOT"
+                        "Main Channel ⚡", url="https://t.me/Filmy_Men"
                     ),
-                    InlineKeyboardButton("Dev Channel 👨🏻‍💻", url="https://telegram.me/LazyDeveloper"),
+                    InlineKeyboardButton("Movies Channel 🎬", url="https://t.me/Filmy_Men_Main"),
                 ],
-                [InlineKeyboardButton("LazyDeveloper 👨‍⚖️", url="https://t.me/mRiderDM")],
+                [InlineKeyboardButton("LazyDeveloper 👨‍⚖️", url="https://t.me/Surus_143_hpy")],
             ]
         ),
         reply_to_message_id=update.message_id
